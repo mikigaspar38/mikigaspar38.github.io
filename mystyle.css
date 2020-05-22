@@ -1,0 +1,249 @@
+body.index{
+	
+	font-size: 1.3vw;
+	color: white;
+	font-family: Arial;
+	background-color: rgb(2,5,19);		
+}
+h1 {
+	font-size: 200%; 
+	text-align: center;
+}
+.fo{
+	margin-top: 15%;
+}
+div.menu{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: right;
+}
+.sor{
+	margin-right: 60px;
+}
+.kenyer{
+	margin-right: 60px;
+}
+.miso{
+	margin-right: 60px;
+}
+.rolunk{
+	margin-right: 60px;
+}
+.lassits{
+	float: left;
+	margin-left: 60px;
+	font-size: 180%;
+	margin-top: -5px;
+	font-family: velveta;
+}
+
+
+
+
+div.alul{
+	position:fixed;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+p.alul{
+	text-align: center;
+	font-size: 70%;
+}
+a.menu{
+	text-decoration: none;
+	color: white;
+}
+a.menu:hover{
+	color: rgb(147,35,2);
+}
+
+
+
+
+body.bemutatkozas{
+
+	font-size: 1.3vw;
+	color: white;
+	font-family: Arial;
+	background-color: rgb(2,5,19);
+}
+a.cim{
+	text-decoration: none;
+	color: white;
+}
+
+div.div1{
+	margin:0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2vw;
+}
+div.div2{
+	float: right;
+	width: 50%;
+	
+	margin-right: 7%;
+	margin-left: 3%;
+	margin-top: 11%;	
+}
+	
+p.p2{
+	line-height: 3vw;
+}
+
+img.en{
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+}
+
+
+
+
+
+
+
+body.sorlap{
+	margin: 0;
+	font-size: 1.3vw;
+	color: white;
+	font-family: Arial;
+	background-color: rgb(166,183,193);
+}
+
+h2{
+	font-size: 200%; 
+	text-align: center;
+	margin-bottom: 10px;
+	margin: auto;
+	text-decoration: underline;
+}
+
+p.sor1{
+	text-align: center;
+	font-size: 120%;
+	margin:30px;
+}
+
+div.div3{
+	margin: auto;
+	float: left;
+	margin-top: 30px;
+	width: 80%;
+	position: absolute;
+	top:260px;
+}
+
+div.div4{
+	margin: auto;
+	margin-left: 20%;
+	text-align: right;
+
+	position: absolute;
+	top:530px;
+}
+
+div.div5{
+	margin: auto;
+	float: left;
+	width: 70%;
+	position: absolute;
+	top:934px;
+}
+
+p.sornev{
+	padding-top: 40px;
+	color: rgb(147,35,2)
+}
+
+img.sor{
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	display: block;
+  	margin: 50px;
+}
+
+
+
+
+
+
+body.kenyerlap{
+	font-size: 1.3vw;
+	color: white;
+	font-family: Arial;
+	background-color: rgb(166,183,193);
+}
+
+p.p3{
+	text-align: center;
+	font-size: 120%;
+	margin-right: 60px;
+	margin-left: 60px;
+	line-height: 40px;
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+
+div.div1kenyer{
+	width: 50%;
+	float: left;
+}
+
+img.kenyer{
+	margin-top: 15px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+}
+
+div.div2kenyer{
+	float: right;
+	width: 50%;
+	margin-top: 15%;
+}
+
+p.kenyercim{
+	color: rgb(147,35,2);
+	text-align: center;
+	margin-bottom: -20px;
+	font-size: 120%;
+}
+
+
+
+
+body.miso{
+	font-size: 1.3vw;
+	color: white;
+	font-family: Arial;
+	background-color: rgb(166,183,193);
+}
+
+img.miso{
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+}
+
+div.miso1{
+	float: left;
+	width: 30%;
+	margin: 30px;
+	margin-left:10%;
+	text-align: center;
+	color: rgb(147,35,2);
+}
+
+div.miso2{
+	float: right;
+	width: 30%;
+	margin: 30px;
+	margin-right: 10%;
+	text-align: center;
+	color: rgb(147,35,2);
+}
